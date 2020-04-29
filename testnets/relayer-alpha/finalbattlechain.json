@@ -1,0 +1,1 @@
+{"key":"faucet","chain-id":"finalbattlechain","rpc-addr":"http://18.217.240.174:26657","account-prefix":"cosmos","gas":200000,"gas-prices":"0.025finalbattle","default-denom":"finalbattle","trusting-period":"330h"}

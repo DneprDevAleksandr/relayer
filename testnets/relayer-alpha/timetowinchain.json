@@ -1,0 +1,1 @@
+{"key":"faucet","chain-id":"timetowinchain","rpc-addr":"http://3.22.166.56:26657","account-prefix":"cosmos","gas":200000,"gas-prices":"0.025timetowin","default-denom":"timetowin","trusting-period":"330h"}
